@@ -6,6 +6,9 @@
 
 I’m currently building hands-on experience through structured labs and projects in cybersecurity, particularly via:
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4951773" style='border:none;'></iframe>
+
+
 - 🧠 [**TryHackMe**](https://tryhackme.com/) – learning adversary tactics, recon, and OSINT
 - 🎓 [**Coursera**](https://coursera.org) – coursework in Google Cybersecurity and Cloud Security
 - 💻 Scripting basic tools in Bash and Python
