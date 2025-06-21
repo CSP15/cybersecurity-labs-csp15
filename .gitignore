@@ -1,0 +1,12 @@
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
+
+# Ignore media or private files
+*.png
+*.jpg
+
+# Ignore environment-specific or temp files
+*.log
+*.env
+*.tmp
