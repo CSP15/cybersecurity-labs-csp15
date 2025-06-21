@@ -6,7 +6,9 @@
 
 ## 🧠 Learning Platforms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AMPSY.png)](https://tryhackme.com/p/AMPSY)
+<a href="https://tryhackme.com/p/AMPSY">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AMPSY.png" alt="TryHackMe Badge" width="200"/>
+</a>
 
 ---
 
