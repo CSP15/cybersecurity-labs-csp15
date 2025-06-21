@@ -6,6 +6,16 @@
 ## 🧠 Learning Platforms
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AMPSY.png)](https://tryhackme.com/p/AMPSY)
 
+---
+
+## 🏅 Certifications
+
+[![Google Cybersecurity Certificate](https://www.credly.com/badges/8aacb426-75fe-45a5-bc55-76c31afbc267/public_url)](https://www.credly.com/users/ampsy/badges)
+
+Certified in **Google Cybersecurity Professional Certificate** via Coursera & Credly.
+
+---
+
 I’m currently building hands-on experience through structured labs and projects in cybersecurity, particularly via:
 
 - 🧠 [**TryHackMe**](https://tryhackme.com/) – learning adversary tactics, recon, and OSINT
