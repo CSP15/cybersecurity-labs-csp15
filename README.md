@@ -3,11 +3,10 @@
 🚀 Transitioning into Cybersecurity | 🔐 Threat Intelligence | 📊 Risk & Compliance | 💡 Lifelong Learner
 
 ---
+## 🧠 Learning Platforms
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AMPSY.png)](https://tryhackme.com/p/AMPSY)
 
 I’m currently building hands-on experience through structured labs and projects in cybersecurity, particularly via:
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4951773" style='border:none;'></iframe>
-
 
 - 🧠 [**TryHackMe**](https://tryhackme.com/) – learning adversary tactics, recon, and OSINT
 - 🎓 [**Coursera**](https://coursera.org) – coursework in Google Cybersecurity and Cloud Security
