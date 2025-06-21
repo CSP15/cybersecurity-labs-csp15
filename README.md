@@ -43,4 +43,5 @@ To bridge my background in compliance, auditing, and communications with technic
 > "_Lead. Defend. Conquer._"
 
 📫 Feel free to connect or collaborate!  
-🔗 [LinkedIn](https://www.linkedin.com/) (add your profile here)
+🔗 [LinkedIn](www.linkedin.com/in/amparsy)
+
